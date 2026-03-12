@@ -1,6 +1,6 @@
 # Hi 👋 I'm Hemant Mahajan
 
-🚀 **DevOps Engineer** | CI/CD Enthusiast | Kubernetes & Docker Expert | Linux Automation
+🚀 **AWS DevOps Engineer** CI/CD (Jenkins, GitHub Actions) | Docker | Kubernetes (EKS) | Terraform | Ansible | AWS | Linux | Shell-Script | Python | GIT | Agile Methodologies | my Linkedin: www.linkedin.com/in/hemant-mahajan-devops | 3.9 YOE.
 
 ---
 
