@@ -31,5 +31,5 @@
 
 ## 🌐 Connect with me
 
-LinkedIn: https://linkedin.com
+LinkedIn: www.linkedin.com/in/hemant-mahajan-devops
 GitHub: https://github.com/hemant9527mahajan
